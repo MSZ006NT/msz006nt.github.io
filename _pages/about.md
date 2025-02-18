@@ -9,3 +9,4 @@ redirect_from:
 ---
 
 ## Hello! This is my new personal website!
+- this is a self introduction
